@@ -61,7 +61,7 @@ function App() {
                 onClick={() => handleRemoveTask(index)}
                 className="text-red-500 ml-2"
               >
-                Remove
+                Remove h
               </button>
             </li>
           ))}
